@@ -1,0 +1,1160 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"listen",
+				"ListenerList"
+			],
+			[
+				"parameter",
+				"ParameterList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "include/input/InputSystem.h",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/core/util/UpdateType.h",
+			"settings":
+			{
+				"buffer_size": 1700,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Android.mk",
+			"settings":
+			{
+				"buffer_size": 603,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "include/core/Core.h",
+			"settings":
+			{
+				"buffer_size": 981,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/graphics/GraphicsSystem.cpp",
+			"settings":
+			{
+				"buffer_size": 2519,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "GarnetAndroidFiles.mk",
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/jni/jni.cpp",
+			"settings":
+			{
+				"buffer_size": 1113,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/core/memory/Allocator.hpp",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "include/core/util/ArgParser.h",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/harrison/code/innatewonder/garnet/include",
+		"/home/harrison/code/innatewonder/garnet/include/audio",
+		"/home/harrison/code/innatewonder/garnet/include/core",
+		"/home/harrison/code/innatewonder/garnet/src",
+		"/home/harrison/code/innatewonder/garnet/src/core"
+	],
+	"file_history":
+	[
+		"/home/harrison/code/innatewonder/garnet/include/core/memory/Memory.h",
+		"/home/harrison/code/innatewonder/garnet/include/core/memory/Allocator.h",
+		"/home/harrison/code/innatewonder/garnet/include/CommonPrecompiled.h",
+		"/home/harrison/code/innatewonder/garnet/include/core/util/ArgParser.h",
+		"/home/harrison/code/innatewonder/garnet/src/input/InputSystem.cpp",
+		"/home/harrison/code/innatewonder/garnet/include/graphics/Shader.h",
+		"/home/harrison/code/innatewonder/garnet/src/jni/jni.cpp",
+		"/home/harrison/code/innatewonder/garnet/premake5.lua",
+		"/home/harrison/code/innatewonder/mythril/premake5.lua",
+		"/home/harrison/code/innatewonder/garnet/include/physics/PhysicsSystem.h",
+		"/home/harrison/code/innatewonder/garnet/include/core/SuperCommon.h",
+		"/home/harrison/code/innatewonder/garnet/src/physics/PhysicsSystem.cpp",
+		"/home/harrison/code/innatewonder/garnet/include/graphics/GraphicsSystem.h",
+		"/home/harrison/code/innatewonder/garnet/include/SystemDefines.h",
+		"/home/harrison/code/innatewonder/garnet/include/audio/AudioSystem.h",
+		"/home/harrison/code/innatewonder/garnet/src/audio/AudioSystem.cpp",
+		"/home/harrison/code/innatewonder/garnet/src/graphics/GraphicsSystem.cpp",
+		"/home/harrison/code/innatewonder/garnet/include/ComponentDefines.h",
+		"/home/harrison/code/innatewonder/garnet/include/ComponentIncludes.h",
+		"/home/harrison/code/innatewonder/garnet/include/SystemIncludes.h",
+		"/home/harrison/code/innatewonder/garnet/include/networking/NetworkComponent.h",
+		"/home/harrison/code/innatewonder/garnet/src/networking/NetworkComponent.cpp",
+		"/home/harrison/code/innatewonder/garnet/src/graphics/Camera.cpp",
+		"/home/harrison/code/innatewonder/garnet/include/networking/NetworkingSystem.h",
+		"/home/harrison/code/innatewonder/garnet/include/core/System.h",
+		"/home/harrison/code/innatewonder/garnet/src/Main.cpp",
+		"/home/harrison/code/innatewonder/mythril/include/SystemDefines.h",
+		"/home/harrison/code/innatewonder/mythril/include/SystemIncludes.h",
+		"/home/harrison/code/innatewonder/mythril/MythrilAndroid.mk",
+		"/home/harrison/code/innatewonder/mythril/src/core/InputSystem.cpp",
+		"/home/harrison/code/innatewonder/mythril/include/core/InputSystem.h",
+		"/home/harrison/code/innatewonder/mythril/Android.mk",
+		"/home/harrison/code/toolset/newProj",
+		"/home/harrison/code/innatewonder/mythril/src/audio/AudioSystem.cpp",
+		"/home/harrison/code/innatewonder/mythril/include/audio/AudioSystem.h",
+		"/home/harrison/code/innatewonder/mythril/src/graphics/components/ProcModelComponent.cpp",
+		"/home/harrison/code/innatewonder/mythril/include/graphics/components/RenderableComponent.h",
+		"/home/harrison/code/innatewonder/mythril/include/ComponentIncludes.h",
+		"/home/harrison/code/innatewonder/mythril/include/ComponentDefines.h",
+		"/home/harrison/code/innatewonder/mythril/include/core/SuperCommon.h",
+		"/home/harrison/code/innatewonder/mythril/include/CommonPrecompiled.h",
+		"/home/harrison/code/innatewonder/mythril/include/Config.h",
+		"/home/harrison/code/innatewonder/mythril/src/jni/Android.mk",
+		"/home/harrison/code/innatewonder/mythril/src/graphics/GraphicsSystem.cpp",
+		"/home/harrison/code/innatewonder/mythril/src/graphics/models/Model.cpp",
+		"/home/harrison/code/innatewonder/mythril/include/graphics/models/Model.h",
+		"/home/harrison/movieGet.sh",
+		"/home/harrison/code/innatewonder/mythril/include/graphics/components/ProcModelComponent.h",
+		"/home/harrison/sshServer",
+		"/home/harrison/code/innatewonder/mythril/src/core/filesystem/FileHandle.cpp",
+		"/home/harrison/code/innatewonder/mythril/out",
+		"/home/harrison/code/innatewonder/mythril/include/core/Delegate.h",
+		"/home/harrison/code/innatewonder/mythril/src/graphics/interface/InterfaceContext.cpp",
+		"/home/harrison/code/innatewonder/mythril/include/core/delegate/DelegateDefinitions.h",
+		"/home/harrison/code/innatewonder/mythril/include/core/Event.h",
+		"/home/harrison/code/innatewonder/mythril/include/core/Event.hpp",
+		"/home/harrison/code/innatewonder/mythril/include/core/Delegate.hpp",
+		"/home/harrison/code/flacEncode.cpp",
+		"/home/harrison/code/innatewonder/lilac/include/core/ComponentDefines.h",
+		"/home/harrison/code/innatewonder/lilac/include/ComponentIncludes.h",
+		"/home/harrison/code/innatewonder/lilac/src/core/filesystem/FileHandle.cpp",
+		"/home/harrison/code/innatewonder/lilac/include/CommonPrecompiled.h",
+		"/home/harrison/code/innatewonder/lilac/out",
+		"/home/harrison/code/innatewonder/lilac/premake5.lua",
+		"/home/harrison/code/innatewonder/lilac/src/core/InputSystem.cpp",
+		"/home/harrison/code/innatewonder/lilac/include/core/InputSystem.h",
+		"/home/harrison/code/innatewonder/lilac/include/SuperCommon.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/SystemIncludes.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/Component.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/SystemDefines.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/reflection/MetaCommon.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/serialization/TextSerialization.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/reflection/Variant.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/reflection/MetaCommon.hpp",
+		"/home/harrison/code/test.cpp",
+		"/home/harrison/code/innatewonder/lilac/include/core/Event.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/Event.hpp",
+		"/home/harrison/code/innatewonder/lilac/include/core/interface/InterfaceSystem.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/Delegate.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/Delegate.hpp",
+		"/home/harrison/code/innatewonder/lilac/include/core/delegate/DelegateDefinitions.h",
+		"/home/harrison/code/innatewonder/lilac/include/core/containers/ContainerDefinitions.h",
+		"/home/harrison/code/innatewonder/lilac/src/graphics/GraphicsSystem.cpp",
+		"/home/harrison/code/voiceEVE/eve.py",
+		"/home/harrison/Downloads/portaudio/install-sh",
+		"/home/harrison/code/innatewonder/onyx/src/networking/protocols/UDPBase.cpp",
+		"/home/harrison/code/innatewonder/onyx/src/networking/protocols/TCPBase.cpp",
+		"/home/harrison/code/innatewonder/onyx/include/networking/protocols/HTTP.h",
+		"/home/harrison/code/innatewonder/onyx/include/networking/protocols/TCPBase.h",
+		"/home/harrison/code/innatewonder/onyx/src/core/thread/HBThread.cpp",
+		"/home/harrison/code/innatewonder/onyx/include/core/thread/HBThread.h",
+		"/home/harrison/code/innatewonder/onyx/include/networking/engine/Protocol.h",
+		"/home/harrison/code/innatewonder/onyx/include/networking/protocols/ProtocolBase.h",
+		"/home/harrison/code/innatewonder/onyx/src/networking/engine/Packet.cpp",
+		"/home/harrison/code/innatewonder/onyx/src/networking/ByteArray.cpp",
+		"/home/harrison/code/innatewonder/onyx/include/networking/ByteArray.h",
+		"/home/harrison/code/innatewonder/onyx/include/networking/engine/Packet.h",
+		"/home/harrison/code/innatewonder/onyx/include/ContainerDefinitions.h",
+		"/home/harrison/code/innatewonder/onyx/include/networking/engine/NetworkEngine.h",
+		"/home/harrison/code/innatewonder/onyx/include/SuperCommon.h",
+		"/home/harrison/code/innatewonder/onyx/include/CommonPrecompiled.h",
+		"/home/harrison/Downloads/premake-5.0.0-alpha7/build/gmake.unix/Makefile",
+		"/home/harrison/Downloads/premake-5.0.0-alpha7/contrib/curl/build/Makefile",
+		"/home/harrison/Downloads/premake-5.0.0-alpha7/contrib/zlib/build/Makefile",
+		"/home/harrison/Downloads/premake-5.0.0-alpha7/contrib/libzip/build/Makefile",
+		"/home/harrison/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/harrison/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"-reflection/,-fmod/,-interface/,-serialization/,",
+			"-reflection/,-fmod/,-interface/,-serialization/,*.h",
+			"-reflection/,-fmod/,-interface/,-serialization,*.h",
+			"-reflection/,-fmod/,-interface/,*.h",
+			"-reflection/,-fmod/,-interface/*.h",
+			"-reflection/,-fmod/,*.h",
+			"-reflection/,*.h",
+			"*.h",
+			".h"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"InputSystem(",
+			"InputSystem",
+			"virtual ",
+			"float",
+			"virtual ",
+			"virtual",
+			"virtual ",
+			"flac",
+			"graphicswindow",
+			"interfaceinitialize",
+			"elif",
+			"delegatedefinitions",
+			"DELEGATE_SUFFIX",
+			"typename ListenerList::const_iterator",
+			"listeners",
+			"typename ListenerList::const_iterator",
+			"function",
+			"listenerlist",
+			"DELEGATE_BASE",
+			"delegate_base",
+			"ListenerList",
+			"listeners",
+			"thread",
+			"refle",
+			"text",
+			"serial",
+			"GUI::",
+			"GUI::InterfaceKeyCallback(window, key, scancode, action, mods);",
+			"istream",
+			"meta",
+			"meta.h",
+			"interfacereflectionwrapper",
+			"define metatype",
+			"metatype",
+			"variant.h",
+			"textserial",
+			"variantreference",
+			"DeletageType",
+			"listeners",
+			"DeletageType",
+			"ListenerList",
+			"BaseDeletageType",
+			"ListenerList",
+			"function",
+			"EMPTY_PARAMETERS ",
+			"emp",
+			"DeletageType",
+			"ListenerList",
+			"DELEGATE_BASE",
+			"return_type",
+			"parameters",
+			"delegate_base",
+			"thread",
+			"install",
+			"engine",
+			"< m_maxSize",
+			"dataSize = sizeof",
+			"m_realSize",
+			"assertion(m_owning);",
+			"ByteWriter::Read",
+			"ByteArray",
+			"PTR_LIMIT",
+			"CHECK_OWNING",
+			"outSize =",
+			"CHECK_OWNING",
+			"ByteArray::Write",
+			"bits =",
+			"m_size",
+			"RB",
+			"Write",
+			";",
+			");\n",
+			"s16 data, ",
+			"Write",
+			"16",
+			"mmacosx",
+			")\n",
+			"macos",
+			"shift"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "include/input/InputSystem.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "include/core/util/UpdateType.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1700,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1256,
+								1256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Android.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "include/core/Core.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 981,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/graphics/GraphicsSystem.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "GarnetAndroidFiles.mk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "src/jni/jni.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "include/core/memory/Allocator.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "include/core/util/ArgParser.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "garnet.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"allocator.hpp",
+				"include/core/memory/Allocator.hpp"
+			],
+			[
+				"memory",
+				"include/core/memory/Memory.h"
+			],
+			[
+				"argpar",
+				"include/core/util/ArgParser.h"
+			],
+			[
+				"common",
+				"include/CommonPrecompiled.h"
+			],
+			[
+				"arg",
+				"include/core/util/ArgParser.h"
+			],
+			[
+				"commonpre",
+				"include/CommonPrecompiled.h"
+			],
+			[
+				"core.h",
+				"include/core/Core.h"
+			],
+			[
+				"jni.",
+				"src/jni/jni.cpp"
+			],
+			[
+				"shader.h",
+				"include/graphics/Shader.h"
+			],
+			[
+				"graphicssy",
+				"src/graphics/GraphicsSystem.cpp"
+			],
+			[
+				"jni",
+				"src/jni/jni.cpp"
+			],
+			[
+				"updatetype",
+				"include/core/util/UpdateType.h"
+			],
+			[
+				"phy",
+				"include/physics/PhysicsSystem.h"
+			],
+			[
+				"supercom",
+				"include/core/SuperCommon.h"
+			],
+			[
+				"inputsys",
+				"src/input/InputSystem.cpp"
+			],
+			[
+				"audio",
+				"include/audio/AudioSystem.h"
+			],
+			[
+				"audiosys",
+				"include/audio/AudioSystem.h"
+			],
+			[
+				"componentincl",
+				"include/ComponentIncludes.h"
+			],
+			[
+				"componentde",
+				"include/ComponentDefines.h"
+			],
+			[
+				"systemin",
+				"include/SystemIncludes.h"
+			],
+			[
+				"systemdef",
+				"include/SystemDefines.h"
+			],
+			[
+				"netow",
+				"src/networking/NetworkComponent.cpp"
+			],
+			[
+				"componen",
+				"include/networking/NetworkComponent.h"
+			],
+			[
+				"comp",
+				"include/ComponentIncludes.h"
+			],
+			[
+				"camera.cp",
+				"src/graphics/Camera.cpp"
+			],
+			[
+				"graphi",
+				"include/graphics/GraphicsSystem.h"
+			],
+			[
+				"graphics",
+				"src/graphics/GraphicsSystem.cpp"
+			],
+			[
+				"networkingsyste",
+				"include/networking/NetworkingSystem.h"
+			],
+			[
+				"physicssy",
+				"include/physics/PhysicsSystem.h"
+			],
+			[
+				"system.h",
+				"include/core/System.h"
+			],
+			[
+				"graphicssys",
+				"include/graphics/GraphicsSystem.h"
+			],
+			[
+				"audiosy",
+				"src/audio/AudioSystem.cpp"
+			],
+			[
+				"main",
+				"src/Main.cpp"
+			],
+			[
+				"inputsystem",
+				"include/core/InputSystem.h"
+			],
+			[
+				"audiossy",
+				"src/audio/AudioSystem.cpp"
+			],
+			[
+				"comone",
+				"include/ComponentIncludes.h"
+			],
+			[
+				"systmedef",
+				"include/SystemDefines.h"
+			],
+			[
+				"supercomm",
+				"include/core/SuperCommon.h"
+			],
+			[
+				"config",
+				"include/Config.h"
+			],
+			[
+				"audiosystem",
+				"include/audio/AudioSystem.h"
+			],
+			[
+				"commonprec",
+				"include/CommonPrecompiled.h"
+			],
+			[
+				"android",
+				"src/jni/Android.mk"
+			],
+			[
+				"render",
+				"include/graphics/components/RenderableComponent.h"
+			],
+			[
+				"rend",
+				"include/graphics/components/RenderableComponent.h"
+			],
+			[
+				"model.h",
+				"include/graphics/models/Model.h"
+			],
+			[
+				"procmodel",
+				"include/graphics/components/ProcModelComponent.h"
+			],
+			[
+				"model",
+				"src/graphics/components/ProcModelComponent.cpp"
+			],
+			[
+				"graph",
+				"src/graphics/GraphicsSystem.cpp"
+			],
+			[
+				"filehandle",
+				"src/core/filesystem/FileHandle.cpp"
+			],
+			[
+				"super",
+				"include/core/SuperCommon.h"
+			],
+			[
+				"com",
+				"include/CommonPrecompiled.h"
+			],
+			[
+				"interfacecon",
+				"src/graphics/interface/InterfaceContext.cpp"
+			],
+			[
+				"delegatede",
+				"include/core/delegate/DelegateDefinitions.h"
+			],
+			[
+				"commo",
+				"include/CommonPrecompiled.h"
+			],
+			[
+				"commonprecompiled.h",
+				"include/CommonPrecompiled.h"
+			],
+			[
+				"delegate.h",
+				"include/core/Delegate.h"
+			],
+			[
+				"event.hpp",
+				"include/core/Event.hpp"
+			],
+			[
+				"event.h",
+				"include/core/Event.h"
+			],
+			[
+				"dlegate.h",
+				"include/core/Delegate.h"
+			],
+			[
+				"dlee",
+				"include/core/Delegate.hpp"
+			],
+			[
+				"input",
+				"src/core/InputSystem.cpp"
+			],
+			[
+				"componentin",
+				"include/ComponentIncludes.h"
+			],
+			[
+				"componentdef",
+				"include/core/ComponentDefines.h"
+			],
+			[
+				"comonent.h",
+				"include/core/Component.h"
+			],
+			[
+				"componenin",
+				"include/ComponentIncludes.h"
+			],
+			[
+				"commoh",
+				"include/CommonPrecompiled.h"
+			],
+			[
+				"system",
+				"include/core/SystemDefines.h"
+			],
+			[
+				"metacommon",
+				"include/core/reflection/MetaCommon.h"
+			],
+			[
+				"metacommon.hpp",
+				"include/core/reflection/MetaCommon.hpp"
+			],
+			[
+				"vair",
+				"include/core/reflection/Variant.h"
+			],
+			[
+				"textserial",
+				"include/core/serialization/TextSerialization.h"
+			],
+			[
+				"interfacesys",
+				"include/core/interface/InterfaceSystem.h"
+			],
+			[
+				"even",
+				"include/core/Event.h"
+			],
+			[
+				"delegat",
+				"include/core/Delegate.h"
+			],
+			[
+				"delegatedefin",
+				"include/core/delegate/DelegateDefinitions.h"
+			],
+			[
+				"even.h",
+				"include/core/Event.h"
+			],
+			[
+				"delegatedef",
+				"include/core/delegate/DelegateDefinitions.h"
+			],
+			[
+				"containers.h",
+				"include/core/containers/ContainerDefinitions.h"
+			],
+			[
+				"eve.",
+				"include/core/Event.h"
+			],
+			[
+				"delegate.hpp",
+				"include/core/Delegate.hpp"
+			],
+			[
+				"delegate",
+				"include/core/Delegate.h"
+			],
+			[
+				"ony",
+				"src/networking/protocols/OnyxTransfer.cpp"
+			],
+			[
+				"hbthread",
+				"src/core/thread/HBThread.cpp"
+			],
+			[
+				"thread",
+				"include/core/thread/HBThread.h"
+			],
+			[
+				"tcpbase",
+				"include/networking/protocols/TCPBase.h"
+			],
+			[
+				"iproto",
+				"include/networking/engine/Protocol.h"
+			],
+			[
+				"proto",
+				"include/networking/engine/Protocol.h"
+			],
+			[
+				"http",
+				"include/networking/protocols/HTTP.h"
+			],
+			[
+				"tcpase",
+				"src/networking/protocols/TCPBase.cpp"
+			],
+			[
+				"tcp",
+				"include/networking/protocols/TCPBase.h"
+			],
+			[
+				"protocol",
+				"include/networking/protocols/ProtocolBase.h"
+			],
+			[
+				"packet",
+				"include/networking/engine/Packet.h"
+			],
+			[
+				"container",
+				"include/ContainerDefinitions.h"
+			],
+			[
+				"protocolbas",
+				"include/networking/protocols/ProtocolBase.h"
+			],
+			[
+				"networkingen",
+				"include/networking/engine/NetworkEngine.h"
+			],
+			[
+				"netw",
+				"src/networking/engine/NetworkEngine.cpp"
+			],
+			[
+				"udpbase",
+				"src/networking/protocols/UDPBase.cpp"
+			],
+			[
+				"ud",
+				"include/networking/protocols/UDPBase.h"
+			],
+			[
+				"network",
+				"include/networking/engine/NetworkEngine.h"
+			],
+			[
+				"packet.cpp",
+				"src/networking/engine/Packet.cpp"
+			],
+			[
+				"packet.h",
+				"include/networking/engine/Packet.h"
+			],
+			[
+				"main.cpp",
+				"src/Main.cpp"
+			],
+			[
+				"by",
+				"src/networking/ByteArray.cpp"
+			],
+			[
+				"bytea",
+				"include/networking/ByteArray.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "my",
+		"selected_items":
+		[
+			[
+				"my",
+				"~/code/innatewonder/mythril/mythril.sublime-project"
+			],
+			[
+				"sil",
+				"~/code/silver/silver.sublime-project"
+			],
+			[
+				"",
+				"~/code/innatewonder/garnet/garnet.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
