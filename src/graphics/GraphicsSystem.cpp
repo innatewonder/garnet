@@ -35,6 +35,7 @@ namespace Graphics
     Object* obj = Factory::MakeObject();
     auto trans = obj->AddComponent(Comp::TransformComponent);
     auto img = obj->AddComponent(Comp::ImageComponent);
+    obj->AddComponent(Comp::ClickableComponent);
     Core::gCore->RegisterObject(obj);
   }
 

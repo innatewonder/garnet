@@ -1,3 +1,5 @@
+// input
+#include "ClickableComponent.h"
 
 // graphics
 #include "RenderableComponent.h"
