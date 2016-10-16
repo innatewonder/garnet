@@ -22,6 +22,7 @@ namespace Physics
   {
     m_dirty = true;
     m_pos += delta;
+    m_pos.w = 1.f;
   }
 
   Math::Point4 TransformComponent::GetTranslation() const
@@ -69,7 +70,7 @@ namespace Physics
     if(m_dirty)
     {
       // m_transform = Math::TransformMatrix::Build(m_pos, m_rot, m_scale);
-      m_transform = Math::TranslationMatrix(m_pos) * Math::ScaleMatrix(m_scale);
+      m_transform = Math::ScaleMatrix(m_scale) * Math::TranslationMatrix(m_pos, true);
       m_dirty = false;
     }
     return m_transform;

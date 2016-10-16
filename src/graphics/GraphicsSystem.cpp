@@ -126,7 +126,7 @@ namespace Graphics
     glViewport(0, 0, gwidth, gheight);
     Math::Matrix view = gSystem->GetVPMatrix();
 
-    f32 fov = Math::PI / 4.f;
+    f32 fov = Math::PI / 3.f;
     f32 aspect = (f32)gwidth / (f32)gheight;
     Math::Matrix proj = Math::PerspectiveMatrix::Build(fov, aspect, 1.f, 1000.0f);
     
